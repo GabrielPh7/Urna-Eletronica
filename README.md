@@ -64,12 +64,6 @@ $ git clone https://github.com/{{GabrielPh7}}/urna
 # Access
 $ cd urna
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
 # The server will initialize in the <http://localhost:3000>
 ```
 
@@ -77,7 +71,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/{{GabrielPh7}}" target="_blank">{{Gabriel Phillipe}}</a>
+Made with :heart: by <a href="https://github.com/{{GabrielPh7}}" target="_blank">Gabriel Phillipe</a>
 
 &#xa0;
 
